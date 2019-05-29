@@ -1,0 +1,76 @@
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\Assessment 5a.dll.config
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\Assessment 5a.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\Assessment 5a.pdb
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\csc.exe
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\csc.exe.config
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\csc.rsp
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\csi.exe
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\csi.exe.config
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\csi.rsp
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\Microsoft.Managed.Core.targets
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.AppContext.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.Collections.Immutable.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.Console.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.IO.Compression.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.IO.FileSystem.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.IO.Pipes.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.Reflection.Metadata.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.Security.AccessControl.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.Security.Claims.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.Security.Principal.Windows.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.ValueTuple.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.Xml.XmlDocument.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.Xml.XPath.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\vbc.exe
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\vbc.exe.config
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\vbc.rsp
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\VBCSCompiler.exe
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\roslyn\VBCSCompiler.exe.config
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\Antlr3.Runtime.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\Microsoft.Web.Infrastructure.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\Newtonsoft.Json.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\System.Web.Helpers.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\System.Web.Mvc.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\System.Web.Optimization.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\System.Web.Razor.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\System.Web.WebPages.Deployment.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\System.Web.WebPages.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\System.Web.WebPages.Razor.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\WebGrease.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\System.Web.Helpers.xml
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\System.Web.Mvc.xml
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\System.Web.Optimization.xml
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\System.Web.Razor.xml
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\System.Web.WebPages.xml
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\System.Web.WebPages.Deployment.xml
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\System.Web.WebPages.Razor.xml
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\Newtonsoft.Json.xml
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\Antlr3.Runtime.pdb
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\obj\Debug\Assessment 5a.csprojAssemblyReference.cache
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\obj\Debug\Assessment 5a.csproj.CoreCompileInputs.cache
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\obj\Debug\Assessment 5a.csproj.CopyComplete
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\obj\Debug\Assessment 5a.dll
+C:\GrandCircus\Documents\In class exercises\Assessment 5a\Assessment 5a\obj\Debug\Assessment 5a.pdb

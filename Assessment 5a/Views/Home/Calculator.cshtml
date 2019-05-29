@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewBag.Title = "Calculator";
+}
+
+<h2>Calculator</h2>
+
+<form action="../Home/Result" method="post">
+
+    <input type="number" name="num1" placeholder="First Number" required />
+    <input type="number" name="num2" placeholder="Second Number" />
+    <br />
+    <br />
+
+    <div class="opTbl">
+        <div class="opTblRow">
+            <label class="opTblCell" for="plus">Add</label>
+            <input class="opTblCell" id="plus" type="radio" name="operation" value="Plus" required />
+        </div>
+        <div class="opTblRow"><br /></div>
+
+        <div class="opTblRow">
+            <label class="opTblCell" for="minus">Subtract</label>
+            <input class="opTblCell" id="minus" type="radio" name="operation" value="Minus" required />
+        </div>
+        
+        <div class="opTblRow" ><br /></div>
+        
+        <div class="opTblRow">
+            <label class="opTblCell" for="multiply">Multiply</label>
+            <input class="opTblCell" id="multiply" type="radio" name="operation" value="Multiply" required />
+        </div>
+
+        <div class="opTblRow"><br /></div>
+
+        <div class="opTblRow">
+            <label class="opTblCell" for="divide">Divide</label>
+            <input class="opTblCell" id="divide" type="radio" name="operation" value="Divide" required />
+        </div>
+        
+    </div>
+    
+    <br />
+
+    <input type="submit" name="Calculate" class="btn-danger" />
+</form>
+
+<style>
+    .opTbl{
+        display:table;
+        border:solid;
+    }
+    .opTblRow{
+        display:table-row;
+    }
+    .opTblCell{
+        display:table-cell;
+        width:30px;
+        text-align:right;
+    }
+    
+</style>
